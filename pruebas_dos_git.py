@@ -8,5 +8,4 @@ print("Hi there")
 
 
 
-exit()
 
