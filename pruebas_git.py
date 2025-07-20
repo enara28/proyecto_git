@@ -1,2 +1,2 @@
 nombre = "enara"
-cambio = "nuevo conflicto"
+cambio = "nuevo conflicto otra vez"
