@@ -1,2 +1,2 @@
 nombre = "enara"
-conflicto = "conflicto local"
+cambio = "nuevo conflicto"

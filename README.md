@@ -5,4 +5,4 @@
 # Nuevos cambios
 
 > otra prueba
-prueba para conflicto local
+> conflicto en remoto
